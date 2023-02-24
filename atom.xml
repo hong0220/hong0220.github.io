@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>hong0220博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/hong0220/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/hong0220/"/>
   <updated>2023-02-24T01:44:35.502Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/hong0220/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/24/hello-world/"/>
-    <id>http://example.com/2023/02/24/hello-world/</id>
+    <link href="https://github.com/hong0220/2023/02/24/hello-world2/"/>
+    <id>https://github.com/hong0220/2023/02/24/hello-world2/</id>
     <published>2023-02-24T01:44:35.502Z</published>
     <updated>2023-02-24T01:44:35.502Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/24/hello-world2/"/>
-    <id>http://example.com/2023/02/24/hello-world2/</id>
+    <link href="https://github.com/hong0220/2023/02/24/hello-world/"/>
+    <id>https://github.com/hong0220/2023/02/24/hello-world/</id>
     <published>2023-02-24T01:44:35.502Z</published>
     <updated>2023-02-24T01:44:35.502Z</updated>
     
