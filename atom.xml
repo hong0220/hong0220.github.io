@@ -3,11 +3,11 @@
   <title>hong0220博客</title>
   
   
-  <link href="https://github.com/hong0220/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/hong0220/"/>
+  <link href="http://example.com/"/>
   <updated>2023-02-24T03:09:39.901Z</updated>
-  <id>https://github.com/hong0220/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,25 +18,25 @@
   
   <entry>
     <title>hello 2023</title>
-    <link href="https://github.com/hong0220/2023/02/24/hello/"/>
-    <id>https://github.com/hong0220/2023/02/24/hello/</id>
+    <link href="http://example.com/2023/02/24/hello/"/>
+    <id>http://example.com/2023/02/24/hello/</id>
     <published>2023-02-24T03:02:05.000Z</published>
     <updated>2023-02-24T03:09:39.901Z</updated>
     
     
     
     
-    <category term="算法" scheme="https://github.com/hong0220/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="AI" scheme="https://github.com/hong0220/categories/%E7%AE%97%E6%B3%95/AI/"/>
+    <category term="AI" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/AI/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/hong0220/2023/02/24/hello-world/"/>
-    <id>https://github.com/hong0220/2023/02/24/hello-world/</id>
+    <link href="http://example.com/2023/02/24/hello-world/"/>
+    <id>http://example.com/2023/02/24/hello-world/</id>
     <published>2023-02-24T01:44:35.502Z</published>
     <updated>2023-02-24T01:44:35.502Z</updated>
     
